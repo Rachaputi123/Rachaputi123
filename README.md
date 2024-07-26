@@ -2,7 +2,7 @@
 ------------------------------------------------------------------------
 <h1 align="center">Hi 👋, I'm Rachaputi praveen kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="--------">
+<img align="right" alt="Coding" width="400" src="https://cdn.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepkonjeti&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepkonjeti" /> </p>
@@ -18,16 +18,16 @@
 
 - 📫 How to reach me *Rachaputi11@gmail.com*
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1MzkOP_kOq8vw0WTCjcqpNW4VNE8soltN/edit?usp=sharing&ouid=117394518225774510684&rtpof=true&sd=true](https://docs.google.com/document/d/1MzkOP_kOq8vw0WTCjcqpNW4VNE8soltN/edit?usp=sharing&ouid=117394518225774510684&rtpof=true&sd=true)
+- 📄 Know about my experiences [[https://docs.google.com/document/d/1MzkOP_kOq8vw0WTCjcqpNW4VNE8soltN/edit?usp=sharing&ouid=117394518225774510684&rtpof=true&sd=true](https://drive.google.com/file/d/1nX7U9mNfFd15j3aTqm9gYppZ00hpOCNT/view?usp=sharing)]
 
 - ⚡ Fun fact *I am funny*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sandeep-konjeti-30a621242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-konjeti-30a621242" height="30" width="40" /></a>
-<a href="https://instagram.com/sandeep_konjeti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandeep_konjeti" height="30" width="40" /></a>
+<a href="[www.linkedin.com/in/praveen-kumar-rachaputi-965426284](https://www.linkedin.com/in/praveen-kumar-rachaputi-965426284/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-konjeti-30a621242" height="30" width="40" /></a>
+<a href="https://instagram.com/praveen_9631" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandeep_konjeti" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sandeepk200322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sandeepk200322" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sandeepk200322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandeepk200322" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
