@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepkonjeti&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepkonjeti" /> </p>
 
 
-- 🔭 I’m currently working on *Alzheimer's Disease Prediction Using Deep Learning*
+- 🔭 I’m currently working on *AN Intitutive encryption with identity- based broadcast for keyD: Secure Key-Deduplication*
 
 - 🌱 I’m currently learning *python Full Stack*
 
@@ -26,7 +26,7 @@
 <p align="left">
 
   
-<a href="www.linkedin.com/in/praveen-kumar-rachaputi-965426284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/praveen-kumar-rachaputi-965426284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="https://instagram.com/praveen_9631" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandeep_konjeti" height="30" width="40" /></a>
 
 
